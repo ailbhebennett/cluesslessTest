@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">cluesslessTest</string>
+    <string name="enter_message">enter message</string>
+    <string name="enter">enter</string>
+    <string name="edit_message">enter a message</string>
+    <string name="button_send">Button send</string>
+    <string name="colourName">colour name</string>
+    <string name="colour_namelbl" />
+    <string name="typeName">type</string>
+    <string name="clothingName" />
+    <string-array name="EntN">
+        <item>String Top</item>
+    </string-array>
+    <string-array name="EntC">
+        <item>Blue</item>
+    </string-array>
+    <string-array name="EntT">
+        <item></item>
+    </string-array>
+</resources>
